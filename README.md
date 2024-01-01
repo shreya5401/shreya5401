@@ -1,9 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/89/15/7d/89157d3842f743497ac35a8fe6781531.gif)
 <h1>Hey, I'm Shreya Sisodia</h1> 
-Your friendly neighborhood Full-stack Developer! I get a kick out of creating things from scratch and turning cool ideas into reality. 
+
 <br></br>
-Actively seeking opportunities for collaboration and engagement on projects where I can contribute my extensive experience and knowledge.
-My enthusiasm for development is unwavering, and I am perpetually dedicated to refining my skill set.
 
 <br></br>
 
