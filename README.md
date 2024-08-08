@@ -2,7 +2,7 @@
 <h1>Hey, I'm Shreya Sisodia</h1> 
 
 <br></br>
-
+Developer. Innovator. Problem Solver. I love creating cool projects that blend tech and creativity. Check out my work and let's build something amazing together! 🚀
 <br></br>
 
 <div align="center">
